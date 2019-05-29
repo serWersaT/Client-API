@@ -1,0 +1,10 @@
+C:\C# проекты\ASP NET\Web API клиент\Client\Client\bin\Debug\Client.exe.config
+C:\C# проекты\ASP NET\Web API клиент\Client\Client\bin\Debug\Client.exe
+C:\C# проекты\ASP NET\Web API клиент\Client\Client\bin\Debug\Client.pdb
+C:\C# проекты\ASP NET\Web API клиент\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\C# проекты\ASP NET\Web API клиент\Client\Client\obj\Debug\Client.Form1.resources
+C:\C# проекты\ASP NET\Web API клиент\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\C# проекты\ASP NET\Web API клиент\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\C# проекты\ASP NET\Web API клиент\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\C# проекты\ASP NET\Web API клиент\Client\Client\obj\Debug\Client.exe
+C:\C# проекты\ASP NET\Web API клиент\Client\Client\obj\Debug\Client.pdb
